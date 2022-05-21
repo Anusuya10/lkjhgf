@@ -6,6 +6,8 @@ public class Education {
 
 		System.out.println("BCA");
 		System.out.println("mba");
+		
+		
 	}
 	public void pg() {
 		System.out.println("EEE");
